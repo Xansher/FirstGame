@@ -1,0 +1,19 @@
+﻿  GameBall.cpp
+C:\Users\Draco\source\repos\FirstGame\FirstGame\GameBall.cpp(11,22): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  VisibleGameObject.cpp
+C:\Users\Draco\source\repos\FirstGame\FirstGame\VisibleGameObject.cpp(68,32): warning C4244: "return": konwersja z "const T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\Draco\source\repos\FirstGame\FirstGame\VisibleGameObject.cpp(72,32): warning C4244: "return": konwersja z "const T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  Trwa generowanie kodu
+  3 of 333 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  FirstGame.vcxproj -> C:\Users\Draco\source\repos\FirstGame\x64\Release\FirstGame.exe
